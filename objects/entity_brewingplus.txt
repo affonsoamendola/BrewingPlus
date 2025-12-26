@@ -1,0 +1,20 @@
+entity_brewingplus
+
+[OBJECT:ENTITY]
+
+[SELECT_ENTITY:MOUNTAIN]
+	[PERMITTED_BUILDING:BARREL_RACK]
+	[POSITION:BREWMASTER]
+		[NAME:brewmaster:brewmasters]
+		[DESCRIPTION:The brewmaster handles the production of alcohol, which we all know to be the most important liquid in Dwarven Culture. They will inspect all barrel racks for the current state of fermentation.]
+		[SITE]
+		[REQUIRES_MARKET]
+		[NUMBER:1]
+		[APPOINTED_BY:EXPEDITION_LEADER]
+		[APPOINTED_BY:MAYOR]
+		[PRECEDENCE:160]
+		[DO_NOT_CULL]
+		[COLOR:5:0:0]
+		[DUTY_BOUND]
+		[REQUIRED_OFFICE:1]
+		[REQUIRED_CABINETS:2]

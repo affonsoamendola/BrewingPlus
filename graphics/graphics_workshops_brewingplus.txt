@@ -1,0 +1,6 @@
+graphics_workshops_brewingplus
+
+[OBJECT:GRAPHICS]
+
+[TILE_GRAPHICS:BREWINGPLUS:0:0:WORKSHOP_CUSTOM:BARREL_RACK:1:0:0] the zero stage is made in-game if not provided
+[TILE_GRAPHICS:BREWINGPLUS:0:1:WORKSHOP_CUSTOM:BARREL_RACK:1:0:1]

@@ -1,0 +1,8 @@
+tile_page_building_brewingplus
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:BREWINGPLUS]
+	[FILE:images/barrelrack.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:64]

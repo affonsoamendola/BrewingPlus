@@ -1,0 +1,33 @@
+[ID:brewingplus]
+[NUMERIC_VERSION:90]
+[DISPLAYED_VERSION:0.9]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:0]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.1]
+[AUTHOR:AffonsoAmendola]
+[NAME:Brewing Plus]
+[DESCRIPTION:Tired of the simplicity of brewing in DF? Want to wait months until your dwarves can drink anything you produce? Want to need to use fuel for brewing? Then this mod is for you!
+
+Complicates the brewing process, everything now takes place in the new workshop: The Barrel Rack, it works automatically issuing a grab order for any fermentable it 
+detects, which is produced in the still.
+
+Also adds distillables, a highly valuable variant made with the use of fuel, and raises the value of all types of alcohol since it takes longer to produce
+]
+
+[STEAM_TITLE:BrewingPlus]
+[STEAM_DESCRIPTION:Tired of the simplicity of brewing in DF? Want to wait months until your dwarves can drink anything you produce? Want to need to use fuel for brewing? Then this mod is for you!
+
+Complicates the brewing process, everything now takes place in the new workshop: The Barrel Rack, it works automatically issuing a grab order for any fermentable it 
+detects, which is produced in the still.
+
+Also adds distillables, a highly valuable variant made with the use of fuel, and raises the value of all types of alcohol since it takes longer to produce.
+
+And adds the Brewmaster a new noble that can help you keep track of how long things need to be fermented for.
+]
+[STEAM_TAG:mod]
+[STEAM_TAG:dfhack]
+[STEAM_TAG:complex]
+[STEAM_TAG:industry]
+[STEAM_TAG:brewing]
+[STEAM_TAG:booze]
+
+[STEAM_FILE_ID:3631448639]
